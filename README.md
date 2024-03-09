@@ -31,13 +31,12 @@ And one more reason: I got my first 3D printer and I really wanted to create my 
 - Download 3D models from 3D Models folder
 - Print it out!
 - Solder the wires according to the scheme
-- 
 - Assemble everything
 - Enjoi
 
 <details>
 
-<summary>scheme</summary>
+<summary>Scheme</summary>
 
 TODO: add scheme
 
