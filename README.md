@@ -31,7 +31,7 @@ And one more reason: I got my first 3D printer and I really wanted to create my 
 - Download stl files from 3D Models folder
 - Print it out!
 - Solder the wires according to the scheme
-- Assemble everything
+- Assemble everything (Use hot glue to securely attach the Arduino)
 - Let's rock🎸
 
 <details>
