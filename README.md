@@ -32,7 +32,7 @@ And one more reason: I got my first 3D printer and I really wanted to create my 
 - Print it out!
 - Solder the wires according to the scheme
 - Assemble everything
-- Let's rock
+- Let's rock🎸
 
 <details>
 
