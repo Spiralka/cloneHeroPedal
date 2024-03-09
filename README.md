@@ -20,7 +20,7 @@ And one more reason: I got my first 3D printer and I really wanted to create my 
 
 - [Install](https://docs.arduino.cc/learn/starting-guide/getting-started-arduino/) Arduino IDE and drivers 
 - Clone and open cloneHeroSketch.ino
-- Open "Librari manager" tab
+- Open "Library manager" tab
 - Search and download "Keyboard" by Arduino
 - In the upper-left corner select the model of your board
 - Connect Arduino
