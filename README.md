@@ -50,6 +50,10 @@ And one more reason: I got my first 3D printer and I really wanted to create my 
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evgeniy-fomin-a112bb129/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sollyight/)
+
+
+
 
 
 
