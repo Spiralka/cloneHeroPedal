@@ -38,7 +38,7 @@ And one more reason: I got my first 3D printer and I really wanted to create my 
 
 <summary>Scheme</summary>
 
-TODO: add scheme
+![Scheme](https://i.imgur.com/birAgiK.jpeg)
 
 </details>
 
