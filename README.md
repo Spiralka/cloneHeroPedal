@@ -43,7 +43,9 @@ And one more reason: I got my first 3D printer and I really wanted to create my 
 </details>
 
 ## Example
-![](https://i.imgur.com/aFzGol2.gif)
+
+[![IMAGE ALT TEXT HERE](https://youtu.be/SfRJVUv2Quc)](https://youtu.be/SfRJVUv2Quc)
+
 
 
 ## 🔗 Links
