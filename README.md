@@ -44,7 +44,7 @@ And one more reason: I got my first 3D printer and I really wanted to create my 
 
 ## Example
 
-[![IMAGE ALT TEXT HERE](https://youtu.be/SfRJVUv2Quc)](https://youtu.be/SfRJVUv2Quc)
+[![](https://i.ytimg.com/vi/SfRJVUv2Quc/hqdefault.jpg)](https://youtu.be/SfRJVUv2Quc)
 
 
 
