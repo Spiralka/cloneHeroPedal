@@ -11,7 +11,7 @@ And one more reason: I got my first 3D printer and I really wanted to create my 
 ## What do you need?
 
 - Arduino Micro (Don't use the Nano version, as it doesn't have the HID)
-- Few wires
+- A few wires
 - Button for guitar pedal (Foot Switch)
 - Some soldering skills
 - 3D printer (or a service for 3D printing)
