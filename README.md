@@ -44,7 +44,7 @@ And one more reason: I got my first 3D printer and I really wanted to create my 
 
 ## Example
 
-[![](https://i.ytimg.com/vi/SfRJVUv2Quc/hqdefault.jpg)](https://youtu.be/SfRJVUv2Quc)
+![Cloneheropedalexample-ezgif com-video-to-gif-converter](https://github.com/Spiralka/cloneHeroPedal/assets/21209696/1c872cda-3a18-4623-abc9-ea772fde8dc0)
 
 
 
